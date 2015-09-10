@@ -1,4 +1,4 @@
-require "itamae/plugin/resource/route/version"
+require 'itamae/resource/base'
 
 module Itamae
   module Plugin
